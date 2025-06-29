@@ -1,0 +1,1 @@
+In this branch I push without squashing, squashing is done on pull request
