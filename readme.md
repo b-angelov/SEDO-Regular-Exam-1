@@ -1,1 +1,3 @@
-In this branch I push without squashing, squashing is done on pull request
+
+In this branch every squash is done locally, no squash proceessed on PR
+
